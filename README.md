@@ -10,9 +10,8 @@ brew install --cask vigosan/cuts/cuts
 
 ## Actualización
 
-```bash
-brew upgrade --cask cuts
-```
+Desde la 1.2, Cuts se actualiza sola mediante su auto-updater integrado
+(`auto_updates true`), por lo que `brew upgrade` no la gestiona.
 
 ## Desinstalación
 
