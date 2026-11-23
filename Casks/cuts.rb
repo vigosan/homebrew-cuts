@@ -1,6 +1,6 @@
 cask "cuts" do
-  version "1.9.1"
-  sha256 "03cd5bf78f4a8f9163b07cd22ebc261b0dcdf4498bbb876926895f88985f0ace"
+  version "1.9.2"
+  sha256 "0c0326db9c453b3e5dbadc0ad610de0b604911d7c3c09d6a6fb0e9eee7e6f61f"
 
   url "https://github.com/vigosan/cuts-releases/releases/download/v#{version}/Cuts-mac.dmg"
   name "Cuts"
